@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on a project with tensorflow
-- 🌱 I’m currently learning java databases (SQL)
+- 🌱 I’m currently learning java databases (SQL) and Angular
 - 👯 I’m looking to collaborate on AI Projects😄
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Angular
 - 💬 Ask me about Artificial Intelligence
 - 📫 How to reach me: Twitter @kijalosit
 
