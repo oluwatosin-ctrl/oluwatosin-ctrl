@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on AI Projects😄
 - 🤔 I’m looking for help with Angular
 - 💬 Ask me about Artificial Intelligence
-- 📫 How to reach me: Twitter @kijalosit
+- 📫 How to reach me: Twitter https://twitter.com/kijalosit
 
 - [![Oluwatosin's github stats](https://github-readme-stats.vercel.app/api?username=oluwatosin-ctrl&show_icons=true&theme=radical)]
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatosin-ctrl)](https://github.com/oluwatosin-ctrl/github-readme-stats)
