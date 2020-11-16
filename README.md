@@ -7,7 +7,8 @@
 - 🤔 I’m looking for help with Angular
 - 💬 Ask me about Artificial Intelligence
 - 📫 How to reach me: Twitter @kijalosit
-[Oluwatosin's github stats](https://github-readme-stats.vercel.app/api?username=oluwatosin-ctrl&show_icons=true&theme=radical)
+-[Oluwatosin's github stats](https://github-readme-stats.vercel.app/api?username=oluwatosin-ctrl&show_icons=true&theme=radical)
+-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatosin-ctrl)](https://github.com/oluwatosin-ctrl/github-readme-stats)
 
 <!--
 **oluwatosin-ctrl/oluwatosin-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
