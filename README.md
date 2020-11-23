@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning java databases (SQL) and Angular
 - 👯 I’m looking to collaborate on AI Projects😄
 - 🤔 I’m looking for help with Angular
-- 💬 Ask me about Artificial Intelligence
+- 💬 Ask me about Artificial Intelligence or Basketball🏀
 - 📫 How to reach me: Twitter @kijalosit
+- ⚡ Fun fact: I was No 1 draft pick in .................
 
 - ![Oluwatosin's github stats](https://github-readme-stats.vercel.app/api?username=oluwatosin-ctrl&show_icons=true&theme=radical)
 
