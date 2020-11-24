@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Oluwatosin Mofikoya, I'm a frontend developer, Java developer and Machine Learning Engineer
 
 
-- 🔭 I’m currently working on a project with tensorflow
+- 🔭 I’m currently working on a project with Machine learning
 - 🌱 I’m currently learning java databases (SQL) and Angular
 - 👯 I’m looking to collaborate on AI Projects😄
 - 🤔 I’m looking for help with Angular
