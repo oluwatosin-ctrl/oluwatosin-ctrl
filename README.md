@@ -6,7 +6,11 @@
 - 👯 I’m looking to collaborate on AI Projects😄
 - 🤔 I’m looking for help with Angular
 - 💬 Ask me about Artificial Intelligence or Basketball🏀
-- 📫 How to reach me: Twitter @kijalosit
+- 📫 How to reach me: <p align="center">
+  <a href="https://tosinmofi.netlify.app">Blog</a>
+  <a href="https://twitter.com/kijalosit">Twitter</a>
+  <a href="https://www.linkedin.com/in/oluwatosin-mofikoya-439a1a179/">LinkedIn</a>
+</p>
 - ⚡ Fun fact: I was No 1 draft pick in ................
 
 - ![Oluwatosin's github stats](https://github-readme-stats.vercel.app/api?username=oluwatosin-ctrl&show_icons=true&theme=radical)
