@@ -11,7 +11,7 @@
   <a href="https://twitter.com/kijalosit">Twitter</a>
   <a href="https://www.linkedin.com/in/oluwatosin-mofikoya-439a1a179/">LinkedIn</a>
 </p>
-- ⚡ Fun fact: I was No 1 draft pick in ................
+- ⚡ Fun fact: I was No 1 draft pick in ...............
 
 - ![Oluwatosin's github stats](https://github-readme-stats.vercel.app/api?username=oluwatosin-ctrl&show_icons=true&theme=radical)
 
