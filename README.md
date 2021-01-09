@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Oluwatosin Mofikoya, I'm a Frontend developer and Machine Learning Engineer
+### Hi there 👋 I'm Oluwatosin Mofikoya, I'm a Frontend and Machine Learning Engineer
 
 
 - 🔭 I’m currently working on a project with Machine learning
