@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on a project with Machine learning
-- 🌱 I’m currently learning java databases (SQL) and Angular
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on AI Projects😄
-- 🤔 I’m looking for help with Angular
+- 🤔 I’m looking for help with Redux😬🥴
 - 💬 Ask me about Artificial Intelligence or Basketball🏀
 - 📫 How to reach me: <p>
   <a href="https://tosinmofi.netlify.app">Portfolio</a>
