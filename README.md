@@ -7,8 +7,7 @@
 - 🤔 I’m looking for help with Redux😬🥴
 - 💬 Ask me about Artificial Intelligence or Basketball🏀
 - 📫 How to reach me: <p>
-  <a href="https://tosinmofi.netlify.app">Portfolio</a>
-  <a href="https://twitter.com/kijalosit">Twitter</a>
+  <a href="https://twitter.com/kijalosit">@kijalosit</a>
   <a href="https://www.linkedin.com/in/oluwatosin-mofikoya-439a1a179/">LinkedIn</a>
 </p>
 - ⚡ Fun fact: I was No 1 draft pick in ................
